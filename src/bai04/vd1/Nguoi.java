@@ -1,4 +1,4 @@
-package bai4.vd1;
+package bai04.vd1;
 import java.time.LocalDate;
 
 public class Nguoi {
